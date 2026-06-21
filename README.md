@@ -89,4 +89,4 @@ With the consistent implementation of the strategy, the company is expected to r
 Outcome of the Project
 In this project, it was revealed that the issue i-ESG faces with regard to growth is one of implementation and not one of strategy. The company has good product credibility, high engagement numbers, assets of customer success, and favorable market positioning. Through content improvement, leveraging the company's current testimonials, optimizing technical elements of the website, and emphasizing buyer messages, i-ESG has a genuine chance to position itself as a category leader in the ESG software market.
 
-Methodology Used: LinkedIn Content Analysis, Competitor Analysis, SEO Analysis, Google Pagespeed Insights, ICP Development, Keyword Analysis, Content Strategy Development, and Growth Modeling.
+Methodology: LinkedIn Content Analysis, Competitor Analysis, SEO Analysis, Google Pagespeed Insights, ICP Development, Keyword Analysis, Content Strategy Development, and Growth Modeling.
